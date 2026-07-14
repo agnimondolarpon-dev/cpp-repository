@@ -15,7 +15,7 @@ Test 2 - semicolon instead of brace:
 1|  #include <iostream>
 2|  
 3|  int main()
-4|  ;
+4|  
 5|      std::cout << "Here is some text.";
 6|  
 7|      return 0;
